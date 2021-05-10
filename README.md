@@ -7,8 +7,4 @@ https://sites.google.com/pucp.edu.pe/diadx2/p%C3%A1gina-principal?authuser=0
 
 En revisión.
 
-11 de Abril 2021
-
-Fecha de revisión en proceso
-
-Segunda fecha el 3 agosto 2021
+11 de Abril 2021, próxima fecha
