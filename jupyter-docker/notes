@@ -1,0 +1,11 @@
+docker build -t andresvilla86/jupyter-docker .
+
+docker run -p 8888:8888 andresvilla86/jupyter-docker
+
+docker ps 
+
+#Stop all running containers: 
+docker stop $(docker ps -a -q)
+
+#Delete all stopped containers: 
+docker rm $(docker ps -a -q)
